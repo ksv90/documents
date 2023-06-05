@@ -11,7 +11,7 @@
 
 Готовые ресурсы больше не будут храниться в SynologyDrive. Теперь для хранения будет использоваться облачный сервис [Amazon S3](https://aws.amazon.com/ru/s3/).
 
-Работа по созданию, изменению и удалению ресурсов будет происходить через систему управления проектами [Jira](https://jira.releaseband.com/secure/Dashboard.jspa) и средства синхронизации файлов [Cyber Duck]([https://mountainduck.io/](https://cyberduck.io/download/).
+Работа по созданию, изменению и удалению ресурсов будет происходить через систему управления проектами [Jira](https://jira.releaseband.com/secure/Dashboard.jspa) и средства синхронизации файлов [Cyber Duck](https://cyberduck.io/download/).
 
 Для просмотра готовых ресурсов можно использовать [Peach](https://peach-c25c4.web.app/), инструментарий которого можно доработать в случае необходимости (сообщить, если потребуется что-то).
 
